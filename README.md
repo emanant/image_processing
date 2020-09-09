@@ -2,7 +2,7 @@
 
 Image color correction and bluring in realtime interactively.
 
-## Run
+## Launch
 
 * `npm start`
 
