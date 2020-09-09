@@ -21,7 +21,3 @@ Image color correction and bluring in realtime interactively.
 ## Authors
 
 * **Manan Gajjar** - *Initial work* - [emanant](https://github.com/emanant)
-
-## Acknowledgments
-
-* Reference to the statictical language models ULM and WLM : [Formal Models for Expert Finding on DBLP Bibliography Data](https://dl.acm.org/doi/10.1109/ICDM.2008.29)
